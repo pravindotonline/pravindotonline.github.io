@@ -114,6 +114,7 @@ h1:after {
 .info > p {
   margin-bottom: 3rem;
 }
+
 @-webkit-keyframes swing {
   0% {
     --swing-x: -100;
